@@ -31,16 +31,12 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: npm ci
-      - name: Patch VitePress
-        run: |
-          FILE=$(find node_modules/vitepress/dist/node -name 'chunk-*.js' | head -1)
-          sed -i 's/throw new Error(`${allDeadLinks.length} dead link(s) found.`);//' "$FILE"
       - name: Build with VitePress
         run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .vitepress/dist/docs
+          path: docs/.vitepress/dist
 
   deploy:
     environment:
