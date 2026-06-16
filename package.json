@@ -1,0 +1,17 @@
+{
+  "name": "how-to-use-spine-2d",
+  "version": "1.0.0",
+  "description": "Spine Pro 2D 4.3 完整入门教程 - Complete Beginner Tutorial for Spine Pro 2D 4.3 (2026)",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": ["spine", "2d", "animation", "tutorial", "gamedev"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.38"
+  }
+}
