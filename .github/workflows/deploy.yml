@@ -31,8 +31,6 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Install dependencies
         run: npm ci
-      - name: Patch VitePress dead link check
-        run: sed -i 's/throw new Error(`${allDeadLinks.length} dead link(s) found.`);//' node_modules/vitepress/dist/node/chunk-D3CUZ4fa.js
       - name: Build with VitePress
         run: npm run build
       - name: Upload artifact

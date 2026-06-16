@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'How to Use Spine 2D',
   description: 'Spine Pro 2D 4.3 完整入门教程 - Complete Beginner Tutorial (2026)',
+  base: '/how-to-use-spine-2d/',
   ignoreDeadLinks: true,
   themeConfig: {
     nav: [
