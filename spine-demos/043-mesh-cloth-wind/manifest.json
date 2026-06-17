@@ -1,0 +1,21 @@
+{
+  "id": "mesh-043",
+  "title": "布条风吹循环",
+  "track": "Mesh 表情",
+  "difficulty": "高级",
+  "estimatedTime": "95m",
+  "deliverable": "cloth_wind",
+  "spineVersion": "4.3",
+  "features": [
+    "mesh",
+    "offset"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

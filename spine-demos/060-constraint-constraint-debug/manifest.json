@@ -1,0 +1,21 @@
+{
+  "id": "constraint-060",
+  "title": "约束故障排查",
+  "track": "IK 与约束",
+  "difficulty": "高级",
+  "estimatedTime": "90m",
+  "deliverable": "constraint_debug",
+  "spineVersion": "4.3",
+  "features": [
+    "mix",
+    "order"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

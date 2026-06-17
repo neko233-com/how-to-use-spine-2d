@@ -1,0 +1,21 @@
+{
+  "id": "constraint-056",
+  "title": "机械臂伸缩",
+  "track": "IK 与约束",
+  "difficulty": "生产",
+  "estimatedTime": "130m",
+  "deliverable": "mech_arm",
+  "spineVersion": "4.3",
+  "features": [
+    "inherit scale",
+    "IK"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

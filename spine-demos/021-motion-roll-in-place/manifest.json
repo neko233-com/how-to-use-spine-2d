@@ -1,0 +1,21 @@
+{
+  "id": "motion-021",
+  "title": "翻滚无位移版本",
+  "track": "角色运动",
+  "difficulty": "高级",
+  "estimatedTime": "110m",
+  "deliverable": "roll_in_place",
+  "spineVersion": "4.3",
+  "features": [
+    "root motion note",
+    "arc"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

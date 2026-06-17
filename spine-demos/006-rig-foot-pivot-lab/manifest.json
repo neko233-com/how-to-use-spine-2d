@@ -1,0 +1,21 @@
+{
+  "id": "rig-006",
+  "title": "脚踝原点修正",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "30m",
+  "deliverable": "foot pivot lab",
+  "spineVersion": "4.3",
+  "features": [
+    "origin",
+    "pose"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

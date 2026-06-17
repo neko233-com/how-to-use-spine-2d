@@ -1,0 +1,21 @@
+{
+  "id": "mesh-045",
+  "title": "翅膀膜变形",
+  "track": "Mesh 表情",
+  "difficulty": "生产",
+  "estimatedTime": "130m",
+  "deliverable": "wing_membrane",
+  "spineVersion": "4.3",
+  "features": [
+    "mesh topology",
+    "IK"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

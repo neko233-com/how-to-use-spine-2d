@@ -1,0 +1,21 @@
+{
+  "id": "combat-026",
+  "title": "重剑蓄力斩",
+  "track": "战斗动作",
+  "difficulty": "高级",
+  "estimatedTime": "120m",
+  "deliverable": "heavy_attack",
+  "spineVersion": "4.3",
+  "features": [
+    "slow in",
+    "impact"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

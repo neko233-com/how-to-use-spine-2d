@@ -1,0 +1,21 @@
+{
+  "id": "mesh-041",
+  "title": "嘴型五状态",
+  "track": "Mesh 表情",
+  "difficulty": "进阶",
+  "estimatedTime": "65m",
+  "deliverable": "mouth_shapes",
+  "spineVersion": "4.3",
+  "features": [
+    "skin placeholder",
+    "timeline"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

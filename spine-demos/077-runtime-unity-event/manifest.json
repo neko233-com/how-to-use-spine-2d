@@ -1,0 +1,21 @@
+{
+  "id": "runtime-077",
+  "title": "Unity 事件监听",
+  "track": "Runtime 集成",
+  "difficulty": "进阶",
+  "estimatedTime": "70m",
+  "deliverable": "unity_event",
+  "spineVersion": "4.3",
+  "features": [
+    "event",
+    "callback"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "constraint-053",
+  "title": "眼睛注视目标",
+  "track": "IK 与约束",
+  "difficulty": "进阶",
+  "estimatedTime": "65m",
+  "deliverable": "look_at",
+  "spineVersion": "4.3",
+  "features": [
+    "transform constraint",
+    "limit"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

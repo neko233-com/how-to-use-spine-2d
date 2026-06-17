@@ -1,0 +1,21 @@
+{
+  "id": "mesh-047",
+  "title": "表情混合库",
+  "track": "Mesh 表情",
+  "difficulty": "生产",
+  "estimatedTime": "150m",
+  "deliverable": "expression_pack",
+  "spineVersion": "4.3",
+  "features": [
+    "skins",
+    "naming"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

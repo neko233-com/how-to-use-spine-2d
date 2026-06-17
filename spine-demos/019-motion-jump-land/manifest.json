@@ -1,0 +1,21 @@
+{
+  "id": "motion-019",
+  "title": "起跳到落地",
+  "track": "角色运动",
+  "difficulty": "进阶",
+  "estimatedTime": "80m",
+  "deliverable": "jump_land",
+  "spineVersion": "4.3",
+  "features": [
+    "squash",
+    "event"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

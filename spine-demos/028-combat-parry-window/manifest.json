@@ -1,0 +1,21 @@
+{
+  "id": "combat-028",
+  "title": "盾反窗口",
+  "track": "战斗动作",
+  "difficulty": "高级",
+  "estimatedTime": "100m",
+  "deliverable": "parry_window",
+  "spineVersion": "4.3",
+  "features": [
+    "event",
+    "cancel window"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

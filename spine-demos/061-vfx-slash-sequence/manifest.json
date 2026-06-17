@@ -1,0 +1,21 @@
+{
+  "id": "vfx-061",
+  "title": "斩击序列帧",
+  "track": "特效演出",
+  "difficulty": "入门",
+  "estimatedTime": "45m",
+  "deliverable": "slash_sequence",
+  "spineVersion": "4.3",
+  "features": [
+    "attachment sequence",
+    "alpha"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

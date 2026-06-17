@@ -1,0 +1,21 @@
+{
+  "id": "rig-002",
+  "title": "头身四件套 idle",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "35m",
+  "deliverable": "idle 循环动画",
+  "spineVersion": "4.3",
+  "features": [
+    "draw order",
+    "keyframe"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

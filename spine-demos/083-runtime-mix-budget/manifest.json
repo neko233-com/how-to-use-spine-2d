@@ -1,0 +1,21 @@
+{
+  "id": "runtime-083",
+  "title": "多动画混合预算",
+  "track": "Runtime 集成",
+  "difficulty": "生产",
+  "estimatedTime": "150m",
+  "deliverable": "mix_budget",
+  "spineVersion": "4.3",
+  "features": [
+    "mix duration",
+    "timeline cleanup"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

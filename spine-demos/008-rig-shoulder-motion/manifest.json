@@ -1,0 +1,21 @@
+{
+  "id": "rig-008",
+  "title": "肩胸联动测试",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "45m",
+  "deliverable": "shoulder motion",
+  "spineVersion": "4.3",
+  "features": [
+    "parenting",
+    "rotation"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

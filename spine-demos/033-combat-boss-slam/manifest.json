@@ -1,0 +1,21 @@
+{
+  "id": "combat-033",
+  "title": "Boss 砸地前摇",
+  "track": "战斗动作",
+  "difficulty": "生产",
+  "estimatedTime": "140m",
+  "deliverable": "boss_slam",
+  "spineVersion": "4.3",
+  "features": [
+    "telegraph",
+    "impact"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

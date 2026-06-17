@@ -1,0 +1,21 @@
+{
+  "id": "vfx-066",
+  "title": "UI 头像眨眼",
+  "track": "特效演出",
+  "difficulty": "入门",
+  "estimatedTime": "40m",
+  "deliverable": "portrait_blink",
+  "spineVersion": "4.3",
+  "features": [
+    "face slot",
+    "loop"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

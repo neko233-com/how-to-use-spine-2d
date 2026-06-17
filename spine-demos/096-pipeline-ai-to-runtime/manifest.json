@@ -1,0 +1,21 @@
+{
+  "id": "pipeline-096",
+  "title": "从 AI 图到引擎",
+  "track": "AI 素材管线",
+  "difficulty": "生产",
+  "estimatedTime": "180m",
+  "deliverable": "ai_to_runtime",
+  "spineVersion": "4.3",
+  "features": [
+    "export",
+    "runtime QA"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

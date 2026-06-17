@@ -1,0 +1,21 @@
+{
+  "id": "constraint-054",
+  "title": "头部跟随鼠标",
+  "track": "IK 与约束",
+  "difficulty": "高级",
+  "estimatedTime": "100m",
+  "deliverable": "head_aim",
+  "spineVersion": "4.3",
+  "features": [
+    "runtime aim",
+    "constraint"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "combat-029",
+  "title": "远程拉弓",
+  "track": "战斗动作",
+  "difficulty": "高级",
+  "estimatedTime": "120m",
+  "deliverable": "bow_shot",
+  "spineVersion": "4.3",
+  "features": [
+    "IK",
+    "attachment"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mesh-042",
+  "title": "愤怒表情组合",
+  "track": "Mesh 表情",
+  "difficulty": "进阶",
+  "estimatedTime": "55m",
+  "deliverable": "angry_face",
+  "spineVersion": "4.3",
+  "features": [
+    "brow",
+    "slot"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

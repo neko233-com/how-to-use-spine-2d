@@ -1,0 +1,29 @@
+{
+  "title": "02 Walk Run IK",
+  "spineVersion": "4.3",
+  "imageFolder": "images",
+  "parts": [
+    "upper_arm_l",
+    "forearm_l",
+    "hand_l",
+    "thigh_l",
+    "calf_l",
+    "foot_l",
+    "upper_arm_r",
+    "forearm_r",
+    "hand_r",
+    "thigh_r",
+    "calf_r",
+    "foot_r",
+    "torso",
+    "pelvis",
+    "head",
+    "root_shadow"
+  ],
+  "lessons": [
+    "contact poses",
+    "passing poses",
+    "foot IK",
+    "root motion notes"
+  ]
+}

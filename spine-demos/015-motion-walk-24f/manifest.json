@@ -1,0 +1,21 @@
+{
+  "id": "motion-015",
+  "title": "四姿势行走循环",
+  "track": "角色运动",
+  "difficulty": "进阶",
+  "estimatedTime": "70m",
+  "deliverable": "walk_24f",
+  "spineVersion": "4.3",
+  "features": [
+    "contact pose",
+    "passing pose"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

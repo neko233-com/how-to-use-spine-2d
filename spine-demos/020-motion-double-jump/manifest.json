@@ -1,0 +1,21 @@
+{
+  "id": "motion-020",
+  "title": "二段跳剪影控制",
+  "track": "角色运动",
+  "difficulty": "高级",
+  "estimatedTime": "90m",
+  "deliverable": "double_jump",
+  "spineVersion": "4.3",
+  "features": [
+    "silhouette",
+    "pose"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

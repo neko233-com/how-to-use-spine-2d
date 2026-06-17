@@ -1,0 +1,21 @@
+{
+  "id": "mesh-039",
+  "title": "脸颊软变形",
+  "track": "Mesh 表情",
+  "difficulty": "高级",
+  "estimatedTime": "90m",
+  "deliverable": "face_deform",
+  "spineVersion": "4.3",
+  "features": [
+    "mesh deform",
+    "control bones"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

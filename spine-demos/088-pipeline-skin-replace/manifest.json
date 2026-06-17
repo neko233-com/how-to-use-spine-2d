@@ -1,0 +1,21 @@
+{
+  "id": "pipeline-088",
+  "title": "换装同名替换",
+  "track": "AI 素材管线",
+  "difficulty": "进阶",
+  "estimatedTime": "70m",
+  "deliverable": "skin_replace",
+  "spineVersion": "4.3",
+  "features": [
+    "skin",
+    "diff"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

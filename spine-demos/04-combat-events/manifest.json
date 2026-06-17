@@ -1,0 +1,34 @@
+{
+  "title": "04 Combat Events",
+  "spineVersion": "4.3",
+  "imageFolder": "images",
+  "parts": [
+    "impact_01",
+    "impact_02",
+    "impact_03",
+    "impact_04",
+    "slash_01",
+    "slash_02",
+    "slash_03",
+    "slash_04",
+    "slash_05",
+    "slash_06",
+    "slash_07",
+    "slash_08",
+    "dust_01",
+    "dust_02",
+    "dust_03",
+    "dust_04",
+    "dust_05",
+    "dust_06",
+    "sword_blade",
+    "sword_handle",
+    "hitbox_debug"
+  ],
+  "lessons": [
+    "anticipation",
+    "hit events",
+    "attachment swaps",
+    "VFX timing"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "01 First Rig",
+  "spineVersion": "4.3",
+  "imageFolder": "images",
+  "parts": [
+    "head",
+    "hair_front",
+    "hair_back",
+    "torso",
+    "pelvis",
+    "upper_arm_l",
+    "forearm_l",
+    "hand_l",
+    "upper_arm_r",
+    "forearm_r",
+    "hand_r",
+    "thigh_l",
+    "calf_l",
+    "foot_l",
+    "thigh_r",
+    "calf_r",
+    "foot_r",
+    "sword",
+    "shield"
+  ],
+  "lessons": [
+    "bone hierarchy",
+    "image binding",
+    "origin placement"
+  ]
+}

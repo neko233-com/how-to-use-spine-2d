@@ -1,0 +1,21 @@
+{
+  "id": "vfx-068",
+  "title": "抽卡揭示",
+  "track": "特效演出",
+  "difficulty": "高级",
+  "estimatedTime": "110m",
+  "deliverable": "card_reveal",
+  "spineVersion": "4.3",
+  "features": [
+    "mask note",
+    "timing"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rig-007",
+  "title": "三段身体呼吸",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "35m",
+  "deliverable": "breath idle",
+  "spineVersion": "4.3",
+  "features": [
+    "hip",
+    "chest",
+    "curve"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

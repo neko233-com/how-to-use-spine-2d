@@ -1,0 +1,21 @@
+{
+  "id": "pipeline-087",
+  "title": "零件命名复核",
+  "track": "AI 素材管线",
+  "difficulty": "入门",
+  "estimatedTime": "30m",
+  "deliverable": "name_order",
+  "spineVersion": "4.3",
+  "features": [
+    "naming",
+    "attachment"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

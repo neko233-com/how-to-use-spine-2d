@@ -1,0 +1,21 @@
+{
+  "id": "combat-032",
+  "title": "空中攻击",
+  "track": "战斗动作",
+  "difficulty": "高级",
+  "estimatedTime": "100m",
+  "deliverable": "air_attack",
+  "spineVersion": "4.3",
+  "features": [
+    "pose clarity",
+    "timing"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

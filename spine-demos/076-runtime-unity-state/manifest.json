@@ -1,0 +1,21 @@
+{
+  "id": "runtime-076",
+  "title": "Unity idle/walk 切换",
+  "track": "Runtime 集成",
+  "difficulty": "进阶",
+  "estimatedTime": "90m",
+  "deliverable": "unity_state",
+  "spineVersion": "4.3",
+  "features": [
+    "AnimationState",
+    "mix"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

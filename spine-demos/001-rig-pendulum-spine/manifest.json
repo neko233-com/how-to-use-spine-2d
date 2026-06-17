@@ -1,0 +1,22 @@
+{
+  "id": "rig-001",
+  "title": "单关节挂件摆动",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "20m",
+  "deliverable": "一个 pendulum.spine",
+  "spineVersion": "4.3",
+  "features": [
+    "bone",
+    "slot",
+    "origin"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

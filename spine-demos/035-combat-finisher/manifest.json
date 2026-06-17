@@ -1,0 +1,21 @@
+{
+  "id": "combat-035",
+  "title": "处决动画节奏",
+  "track": "战斗动作",
+  "difficulty": "生产",
+  "estimatedTime": "150m",
+  "deliverable": "finisher",
+  "spineVersion": "4.3",
+  "features": [
+    "camera note",
+    "events"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

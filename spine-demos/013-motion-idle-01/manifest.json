@@ -1,0 +1,21 @@
+{
+  "id": "motion-013",
+  "title": "基础待机呼吸",
+  "track": "角色运动",
+  "difficulty": "入门",
+  "estimatedTime": "30m",
+  "deliverable": "idle_01",
+  "spineVersion": "4.3",
+  "features": [
+    "loop",
+    "curve"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

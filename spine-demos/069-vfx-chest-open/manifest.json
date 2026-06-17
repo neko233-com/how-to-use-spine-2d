@@ -1,0 +1,21 @@
+{
+  "id": "vfx-069",
+  "title": "宝箱打开",
+  "track": "特效演出",
+  "difficulty": "进阶",
+  "estimatedTime": "75m",
+  "deliverable": "chest_open",
+  "spineVersion": "4.3",
+  "features": [
+    "anticipation",
+    "event"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "runtime-081",
+  "title": "Godot 导入检查",
+  "track": "Runtime 集成",
+  "difficulty": "高级",
+  "estimatedTime": "110m",
+  "deliverable": "godot_import",
+  "spineVersion": "4.3",
+  "features": [
+    "version match",
+    "signals"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

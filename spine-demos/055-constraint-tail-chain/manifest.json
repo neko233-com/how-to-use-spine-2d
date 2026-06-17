@@ -1,0 +1,21 @@
+{
+  "id": "constraint-055",
+  "title": "尾巴链式摆动",
+  "track": "IK 与约束",
+  "difficulty": "高级",
+  "estimatedTime": "95m",
+  "deliverable": "tail_chain",
+  "spineVersion": "4.3",
+  "features": [
+    "path",
+    "secondary"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

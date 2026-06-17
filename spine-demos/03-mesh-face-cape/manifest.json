@@ -1,0 +1,22 @@
+{
+  "title": "03 Mesh Face Cape",
+  "spineVersion": "4.3",
+  "imageFolder": "images",
+  "parts": [
+    "cape_upper",
+    "cape_lower",
+    "face_base",
+    "mouth",
+    "eye_l",
+    "eye_r",
+    "brow_l",
+    "brow_r",
+    "tear"
+  ],
+  "lessons": [
+    "mesh vertices",
+    "weight gradients",
+    "deform keys",
+    "skin placeholders"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "constraint-058",
+  "title": "挂件跟随延迟",
+  "track": "IK 与约束",
+  "difficulty": "高级",
+  "estimatedTime": "85m",
+  "deliverable": "pendant_follow",
+  "spineVersion": "4.3",
+  "features": [
+    "transform mix",
+    "delay"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

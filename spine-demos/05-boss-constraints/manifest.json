@@ -1,0 +1,37 @@
+{
+  "title": "05 Boss Constraints",
+  "spineVersion": "4.3",
+  "imageFolder": "images",
+  "parts": [
+    "stone_segment_01",
+    "stone_segment_02",
+    "stone_segment_03",
+    "stone_segment_04",
+    "stone_segment_05",
+    "stone_segment_06",
+    "core",
+    "head",
+    "fist_l",
+    "fist_r",
+    "foot_l",
+    "foot_r",
+    "magic_orbit_01",
+    "magic_orbit_02",
+    "magic_orbit_03",
+    "magic_orbit_04",
+    "magic_orbit_05",
+    "magic_orbit_06",
+    "magic_orbit_07",
+    "magic_orbit_08",
+    "magic_orbit_09",
+    "magic_orbit_10",
+    "magic_orbit_11",
+    "magic_orbit_12"
+  ],
+  "lessons": [
+    "transform constraints",
+    "path follow",
+    "secondary motion",
+    "performance budget"
+  ]
+}

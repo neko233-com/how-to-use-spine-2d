@@ -1,0 +1,21 @@
+{
+  "id": "pipeline-085",
+  "title": "绿幕 parts sheet",
+  "track": "AI 素材管线",
+  "difficulty": "入门",
+  "estimatedTime": "35m",
+  "deliverable": "sheet_prompt",
+  "spineVersion": "4.3",
+  "features": [
+    "gpt-image2",
+    "chroma key"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

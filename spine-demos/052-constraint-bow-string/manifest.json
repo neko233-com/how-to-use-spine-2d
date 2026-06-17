@@ -1,0 +1,21 @@
+{
+  "id": "constraint-052",
+  "title": "弓弦拉伸约束",
+  "track": "IK 与约束",
+  "difficulty": "生产",
+  "estimatedTime": "140m",
+  "deliverable": "bow_string",
+  "spineVersion": "4.3",
+  "features": [
+    "path constraint",
+    "IK"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

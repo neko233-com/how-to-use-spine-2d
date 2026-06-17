@@ -1,0 +1,21 @@
+{
+  "id": "combat-031",
+  "title": "上挑攻击",
+  "track": "战斗动作",
+  "difficulty": "高级",
+  "estimatedTime": "95m",
+  "deliverable": "launcher",
+  "spineVersion": "4.3",
+  "features": [
+    "arc",
+    "smear"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

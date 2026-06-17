@@ -1,0 +1,21 @@
+{
+  "id": "runtime-084",
+  "title": "同屏 50 个小怪测试",
+  "track": "Runtime 集成",
+  "difficulty": "生产",
+  "estimatedTime": "180m",
+  "deliverable": "crowd_perf",
+  "spineVersion": "4.3",
+  "features": [
+    "performance",
+    "atlas"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

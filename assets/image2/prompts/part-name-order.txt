@@ -1,0 +1,26 @@
+# Optional names file for tools/slice_chroma_sheet.py.
+# Put one target attachment name per detected island, ordered roughly top-left to bottom-right.
+head
+hair_front
+hair_back
+torso
+pelvis
+upper_arm_l
+forearm_l
+hand_l
+upper_arm_r
+forearm_r
+hand_r
+thigh_l
+calf_l
+foot_l
+thigh_r
+calf_r
+foot_r
+cape_upper
+cape_lower
+sword
+shield
+slash_01
+impact_01
+dust_01

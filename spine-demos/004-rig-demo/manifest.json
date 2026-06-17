@@ -1,0 +1,21 @@
+{
+  "id": "rig-004",
+  "title": "盾牌前后遮挡",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "35m",
+  "deliverable": "遮挡测试动画",
+  "spineVersion": "4.3",
+  "features": [
+    "draw order",
+    "slot"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

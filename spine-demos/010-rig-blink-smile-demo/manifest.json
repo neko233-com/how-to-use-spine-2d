@@ -1,0 +1,21 @@
+{
+  "id": "rig-010",
+  "title": "表情附件切换",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "40m",
+  "deliverable": "blink smile demo",
+  "spineVersion": "4.3",
+  "features": [
+    "slot",
+    "attachment"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

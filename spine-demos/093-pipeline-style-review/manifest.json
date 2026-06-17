@@ -1,0 +1,21 @@
+{
+  "id": "pipeline-093",
+  "title": "风格一致性审查",
+  "track": "AI 素材管线",
+  "difficulty": "生产",
+  "estimatedTime": "120m",
+  "deliverable": "style_review",
+  "spineVersion": "4.3",
+  "features": [
+    "art direction",
+    "palette"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

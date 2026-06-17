@@ -1,0 +1,21 @@
+{
+  "id": "rig-011",
+  "title": "三方向假转身",
+  "track": "入门绑定",
+  "difficulty": "进阶",
+  "estimatedTime": "55m",
+  "deliverable": "3-direction turn",
+  "spineVersion": "4.3",
+  "features": [
+    "draw order",
+    "skin"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

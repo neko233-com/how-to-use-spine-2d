@@ -1,0 +1,21 @@
+{
+  "id": "rig-012",
+  "title": "第一套完整角色",
+  "track": "入门绑定",
+  "difficulty": "进阶",
+  "estimatedTime": "75m",
+  "deliverable": "complete cutout rig",
+  "spineVersion": "4.3",
+  "features": [
+    "naming",
+    "export"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

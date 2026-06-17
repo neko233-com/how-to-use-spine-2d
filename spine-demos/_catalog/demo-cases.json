@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "rig-001",
+    "number": "001",
+    "title": "单关节挂件摆动",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "20m",
+    "deliverable": "一个 pendulum.spine",
+    "features": [
+      "bone",
+      "slot",
+      "origin"
+    ],
+    "folder": "spine-demos/001-rig-pendulum-spine"
+  },
+  {
+    "id": "rig-002",
+    "number": "002",
+    "title": "头身四件套 idle",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "35m",
+    "deliverable": "idle 循环动画",
+    "features": [
+      "draw order",
+      "keyframe"
+    ],
+    "folder": "spine-demos/002-rig-idle"
+  },
+  {
+    "id": "rig-003",
+    "number": "003",
+    "title": "武器挂点与换剑",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "40m",
+    "deliverable": "weapon skin demo",
+    "features": [
+      "attachment swap",
+      "skin"
+    ],
+    "folder": "spine-demos/003-rig-weapon-skin-demo"
+  },
+  {
+    "id": "rig-004",
+    "number": "004",
+    "title": "盾牌前后遮挡",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "35m",
+    "deliverable": "遮挡测试动画",
+    "features": [
+      "draw order",
+      "slot"
+    ],
+    "folder": "spine-demos/004-rig-demo"
+  },
+  {
+    "id": "rig-005",
+    "number": "005",
+    "title": "左右手独立层级",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "45m",
+    "deliverable": "上半身 rig",
+    "features": [
+      "hierarchy",
+      "transform"
+    ],
+    "folder": "spine-demos/005-rig-rig"
+  },
+  {
+    "id": "rig-006",
+    "number": "006",
+    "title": "脚踝原点修正",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "30m",
+    "deliverable": "foot pivot lab",
+    "features": [
+      "origin",
+      "pose"
+    ],
+    "folder": "spine-demos/006-rig-foot-pivot-lab"
+  },
+  {
+    "id": "rig-007",
+    "number": "007",
+    "title": "三段身体呼吸",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "35m",
+    "deliverable": "breath idle",
+    "features": [
+      "hip",
+      "chest",
+      "curve"
+    ],
+    "folder": "spine-demos/007-rig-breath-idle"
+  },
+  {
+    "id": "rig-008",
+    "number": "008",
+    "title": "肩胸联动测试",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "45m",
+    "deliverable": "shoulder motion",
+    "features": [
+      "parenting",
+      "rotation"
+    ],
+    "folder": "spine-demos/008-rig-shoulder-motion"
+  },
+  {
+    "id": "rig-009",
+    "number": "009",
+    "title": "装备显示开关",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "30m",
+    "deliverable": "armor toggle",
+    "features": [
+      "skin placeholder",
+      "visibility"
+    ],
+    "folder": "spine-demos/009-rig-armor-toggle"
+  },
+  {
+    "id": "rig-010",
+    "number": "010",
+    "title": "表情附件切换",
+    "track": "入门绑定",
+    "difficulty": "入门",
+    "time": "40m",
+    "deliverable": "blink smile demo",
+    "features": [
+      "slot",
+      "attachment"
+    ],
+    "folder": "spine-demos/010-rig-blink-smile-demo"
+  },
+  {
+    "id": "rig-011",
+    "number": "011",
+    "title": "三方向假转身",
+    "track": "入门绑定",
+    "difficulty": "进阶",
+    "time": "55m",
+    "deliverable": "3-direction turn",
+    "features": [
+      "draw order",
+      "skin"
+    ],
+    "folder": "spine-demos/011-rig-3-direction-turn"
+  },
+  {
+    "id": "rig-012",
+    "number": "012",
+    "title": "第一套完整角色",
+    "track": "入门绑定",
+    "difficulty": "进阶",
+    "time": "75m",
+    "deliverable": "complete cutout rig",
+    "features": [
+      "naming",
+      "export"
+    ],
+    "folder": "spine-demos/012-rig-complete-cutout-rig"
+  },
+  {
+    "id": "motion-013",
+    "number": "013",
+    "title": "基础待机呼吸",
+    "track": "角色运动",
+    "difficulty": "入门",
+    "time": "30m",
+    "deliverable": "idle_01",
+    "features": [
+      "loop",
+      "curve"
+    ],
+    "folder": "spine-demos/013-motion-idle-01"
+  },
+  {
+    "id": "motion-014",
+    "number": "014",
+    "title": "轻武器待机",
+    "track": "角色运动",
+    "difficulty": "入门",
+    "time": "45m",
+    "deliverable": "idle_weapon",
+    "features": [
+      "secondary motion",
+      "offset"
+    ],
+    "folder": "spine-demos/014-motion-idle-weapon"
+  },
+  {
+    "id": "motion-015",
+    "number": "015",
+    "title": "四姿势行走循环",
+    "track": "角色运动",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "walk_24f",
+    "features": [
+      "contact pose",
+      "passing pose"
+    ],
+    "folder": "spine-demos/015-motion-walk-24f"
+  },
+  {
+    "id": "motion-016",
+    "number": "016",
+    "title": "脚步事件行走",
+    "track": "角色运动",
+    "difficulty": "进阶",
+    "time": "60m",
+    "deliverable": "walk_event",
+    "features": [
+      "event",
+      "footstep"
+    ],
+    "folder": "spine-demos/016-motion-walk-event"
+  },
+  {
+    "id": "motion-017",
+    "number": "017",
+    "title": "跑步腾空帧",
+    "track": "角色运动",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "run_18f",
+    "features": [
+      "air frame",
+      "timing"
+    ],
+    "folder": "spine-demos/017-motion-run-18f"
+  },
+  {
+    "id": "motion-018",
+    "number": "018",
+    "title": "急停与重心回弹",
+    "track": "角色运动",
+    "difficulty": "高级",
+    "time": "90m",
+    "deliverable": "stop_brake",
+    "features": [
+      "anticipation",
+      "overlap"
+    ],
+    "folder": "spine-demos/018-motion-stop-brake"
+  },
+  {
+    "id": "motion-019",
+    "number": "019",
+    "title": "起跳到落地",
+    "track": "角色运动",
+    "difficulty": "进阶",
+    "time": "80m",
+    "deliverable": "jump_land",
+    "features": [
+      "squash",
+      "event"
+    ],
+    "folder": "spine-demos/019-motion-jump-land"
+  },
+  {
+    "id": "motion-020",
+    "number": "020",
+    "title": "二段跳剪影控制",
+    "track": "角色运动",
+    "difficulty": "高级",
+    "time": "90m",
+    "deliverable": "double_jump",
+    "features": [
+      "silhouette",
+      "pose"
+    ],
+    "folder": "spine-demos/020-motion-double-jump"
+  },
+  {
+    "id": "motion-021",
+    "number": "021",
+    "title": "翻滚无位移版本",
+    "track": "角色运动",
+    "difficulty": "高级",
+    "time": "110m",
+    "deliverable": "roll_in_place",
+    "features": [
+      "root motion note",
+      "arc"
+    ],
+    "folder": "spine-demos/021-motion-roll-in-place"
+  },
+  {
+    "id": "motion-022",
+    "number": "022",
+    "title": "爬梯循环",
+    "track": "角色运动",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "climb_loop",
+    "features": [
+      "cycle",
+      "hand contact"
+    ],
+    "folder": "spine-demos/022-motion-climb-loop"
+  },
+  {
+    "id": "motion-023",
+    "number": "023",
+    "title": "受击后退",
+    "track": "角色运动",
+    "difficulty": "进阶",
+    "time": "65m",
+    "deliverable": "hurt_knockback",
+    "features": [
+      "snap",
+      "recover"
+    ],
+    "folder": "spine-demos/023-motion-hurt-knockback"
+  },
+  {
+    "id": "motion-024",
+    "number": "024",
+    "title": "死亡倒地",
+    "track": "角色运动",
+    "difficulty": "高级",
+    "time": "95m",
+    "deliverable": "death_fall",
+    "features": [
+      "non-loop",
+      "settle"
+    ],
+    "folder": "spine-demos/024-motion-death-fall"
+  },
+  {
+    "id": "combat-025",
+    "number": "025",
+    "title": "短剑三段连击",
+    "track": "战斗动作",
+    "difficulty": "进阶",
+    "time": "110m",
+    "deliverable": "attack_combo_3",
+    "features": [
+      "anticipation",
+      "event"
+    ],
+    "folder": "spine-demos/025-combat-attack-combo-3"
+  },
+  {
+    "id": "combat-026",
+    "number": "026",
+    "title": "重剑蓄力斩",
+    "track": "战斗动作",
+    "difficulty": "高级",
+    "time": "120m",
+    "deliverable": "heavy_attack",
+    "features": [
+      "slow in",
+      "impact"
+    ],
+    "folder": "spine-demos/026-combat-heavy-attack"
+  },
+  {
+    "id": "combat-027",
+    "number": "027",
+    "title": "长枪刺击",
+    "track": "战斗动作",
+    "difficulty": "进阶",
+    "time": "80m",
+    "deliverable": "spear_thrust",
+    "features": [
+      "line of action",
+      "hit"
+    ],
+    "folder": "spine-demos/027-combat-spear-thrust"
+  },
+  {
+    "id": "combat-028",
+    "number": "028",
+    "title": "盾反窗口",
+    "track": "战斗动作",
+    "difficulty": "高级",
+    "time": "100m",
+    "deliverable": "parry_window",
+    "features": [
+      "event",
+      "cancel window"
+    ],
+    "folder": "spine-demos/028-combat-parry-window"
+  },
+  {
+    "id": "combat-029",
+    "number": "029",
+    "title": "远程拉弓",
+    "track": "战斗动作",
+    "difficulty": "高级",
+    "time": "120m",
+    "deliverable": "bow_shot",
+    "features": [
+      "IK",
+      "attachment"
+    ],
+    "folder": "spine-demos/029-combat-bow-shot"
+  },
+  {
+    "id": "combat-030",
+    "number": "030",
+    "title": "法杖施法循环",
+    "track": "战斗动作",
+    "difficulty": "进阶",
+    "time": "85m",
+    "deliverable": "cast_loop",
+    "features": [
+      "slot FX",
+      "event"
+    ],
+    "folder": "spine-demos/030-combat-cast-loop"
+  },
+  {
+    "id": "combat-031",
+    "number": "031",
+    "title": "上挑攻击",
+    "track": "战斗动作",
+    "difficulty": "高级",
+    "time": "95m",
+    "deliverable": "launcher",
+    "features": [
+      "arc",
+      "smear"
+    ],
+    "folder": "spine-demos/031-combat-launcher"
+  },
+  {
+    "id": "combat-032",
+    "number": "032",
+    "title": "空中攻击",
+    "track": "战斗动作",
+    "difficulty": "高级",
+    "time": "100m",
+    "deliverable": "air_attack",
+    "features": [
+      "pose clarity",
+      "timing"
+    ],
+    "folder": "spine-demos/032-combat-air-attack"
+  },
+  {
+    "id": "combat-033",
+    "number": "033",
+    "title": "Boss 砸地前摇",
+    "track": "战斗动作",
+    "difficulty": "生产",
+    "time": "140m",
+    "deliverable": "boss_slam",
+    "features": [
+      "telegraph",
+      "impact"
+    ],
+    "folder": "spine-demos/033-combat-boss-slam"
+  },
+  {
+    "id": "combat-034",
+    "number": "034",
+    "title": "受击闪白附件",
+    "track": "战斗动作",
+    "difficulty": "进阶",
+    "time": "60m",
+    "deliverable": "hit_flash",
+    "features": [
+      "skin",
+      "color key"
+    ],
+    "folder": "spine-demos/034-combat-hit-flash"
+  },
+  {
+    "id": "combat-035",
+    "number": "035",
+    "title": "处决动画节奏",
+    "track": "战斗动作",
+    "difficulty": "生产",
+    "time": "150m",
+    "deliverable": "finisher",
+    "features": [
+      "camera note",
+      "events"
+    ],
+    "folder": "spine-demos/035-combat-finisher"
+  },
+  {
+    "id": "combat-036",
+    "number": "036",
+    "title": "武器残影序列",
+    "track": "战斗动作",
+    "difficulty": "高级",
+    "time": "100m",
+    "deliverable": "weapon_trail",
+    "features": [
+      "attachment sequence",
+      "curve"
+    ],
+    "folder": "spine-demos/036-combat-weapon-trail"
+  },
+  {
+    "id": "mesh-037",
+    "number": "037",
+    "title": "披风三骨骼摆动",
+    "track": "Mesh 表情",
+    "difficulty": "进阶",
+    "time": "75m",
+    "deliverable": "cape_wave",
+    "features": [
+      "mesh",
+      "weights"
+    ],
+    "folder": "spine-demos/037-mesh-cape-wave"
+  },
+  {
+    "id": "mesh-038",
+    "number": "038",
+    "title": "长发延迟运动",
+    "track": "Mesh 表情",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "hair_overlap",
+    "features": [
+      "secondary motion",
+      "weights"
+    ],
+    "folder": "spine-demos/038-mesh-hair-overlap"
+  },
+  {
+    "id": "mesh-039",
+    "number": "039",
+    "title": "脸颊软变形",
+    "track": "Mesh 表情",
+    "difficulty": "高级",
+    "time": "90m",
+    "deliverable": "face_deform",
+    "features": [
+      "mesh deform",
+      "control bones"
+    ],
+    "folder": "spine-demos/039-mesh-face-deform"
+  },
+  {
+    "id": "mesh-040",
+    "number": "040",
+    "title": "眨眼三帧",
+    "track": "Mesh 表情",
+    "difficulty": "入门",
+    "time": "30m",
+    "deliverable": "blink_swap",
+    "features": [
+      "attachment swap",
+      "timing"
+    ],
+    "folder": "spine-demos/040-mesh-blink-swap"
+  },
+  {
+    "id": "mesh-041",
+    "number": "041",
+    "title": "嘴型五状态",
+    "track": "Mesh 表情",
+    "difficulty": "进阶",
+    "time": "65m",
+    "deliverable": "mouth_shapes",
+    "features": [
+      "skin placeholder",
+      "timeline"
+    ],
+    "folder": "spine-demos/041-mesh-mouth-shapes"
+  },
+  {
+    "id": "mesh-042",
+    "number": "042",
+    "title": "愤怒表情组合",
+    "track": "Mesh 表情",
+    "difficulty": "进阶",
+    "time": "55m",
+    "deliverable": "angry_face",
+    "features": [
+      "brow",
+      "slot"
+    ],
+    "folder": "spine-demos/042-mesh-angry-face"
+  },
+  {
+    "id": "mesh-043",
+    "number": "043",
+    "title": "布条风吹循环",
+    "track": "Mesh 表情",
+    "difficulty": "高级",
+    "time": "95m",
+    "deliverable": "cloth_wind",
+    "features": [
+      "mesh",
+      "offset"
+    ],
+    "folder": "spine-demos/043-mesh-cloth-wind"
+  },
+  {
+    "id": "mesh-044",
+    "number": "044",
+    "title": "裙摆跑步跟随",
+    "track": "Mesh 表情",
+    "difficulty": "高级",
+    "time": "110m",
+    "deliverable": "skirt_run",
+    "features": [
+      "weights",
+      "run blend"
+    ],
+    "folder": "spine-demos/044-mesh-skirt-run"
+  },
+  {
+    "id": "mesh-045",
+    "number": "045",
+    "title": "翅膀膜变形",
+    "track": "Mesh 表情",
+    "difficulty": "生产",
+    "time": "130m",
+    "deliverable": "wing_membrane",
+    "features": [
+      "mesh topology",
+      "IK"
+    ],
+    "folder": "spine-demos/045-mesh-wing-membrane"
+  },
+  {
+    "id": "mesh-046",
+    "number": "046",
+    "title": "肚皮呼吸变形",
+    "track": "Mesh 表情",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "belly_breath",
+    "features": [
+      "deform",
+      "curve"
+    ],
+    "folder": "spine-demos/046-mesh-belly-breath"
+  },
+  {
+    "id": "mesh-047",
+    "number": "047",
+    "title": "表情混合库",
+    "track": "Mesh 表情",
+    "difficulty": "生产",
+    "time": "150m",
+    "deliverable": "expression_pack",
+    "features": [
+      "skins",
+      "naming"
+    ],
+    "folder": "spine-demos/047-mesh-expression-pack"
+  },
+  {
+    "id": "mesh-048",
+    "number": "048",
+    "title": "半透明泪滴处理",
+    "track": "Mesh 表情",
+    "difficulty": "高级",
+    "time": "80m",
+    "deliverable": "tear_alpha",
+    "features": [
+      "premultiply alpha",
+      "atlas"
+    ],
+    "folder": "spine-demos/048-mesh-tear-alpha"
+  },
+  {
+    "id": "constraint-049",
+    "number": "049",
+    "title": "双腿 IK 站姿",
+    "track": "IK 与约束",
+    "difficulty": "进阶",
+    "time": "80m",
+    "deliverable": "leg_ik_pose",
+    "features": [
+      "IK",
+      "bend direction"
+    ],
+    "folder": "spine-demos/049-constraint-leg-ik-pose"
+  },
+  {
+    "id": "constraint-050",
+    "number": "050",
+    "title": "脚底锁定行走",
+    "track": "IK 与约束",
+    "difficulty": "高级",
+    "time": "110m",
+    "deliverable": "foot_lock_walk",
+    "features": [
+      "IK target",
+      "contact"
+    ],
+    "folder": "spine-demos/050-constraint-foot-lock-walk"
+  },
+  {
+    "id": "constraint-051",
+    "number": "051",
+    "title": "双手握剑",
+    "track": "IK 与约束",
+    "difficulty": "高级",
+    "time": "120m",
+    "deliverable": "two_hand_weapon",
+    "features": [
+      "IK",
+      "transform constraint"
+    ],
+    "folder": "spine-demos/051-constraint-two-hand-weapon"
+  },
+  {
+    "id": "constraint-052",
+    "number": "052",
+    "title": "弓弦拉伸约束",
+    "track": "IK 与约束",
+    "difficulty": "生产",
+    "time": "140m",
+    "deliverable": "bow_string",
+    "features": [
+      "path constraint",
+      "IK"
+    ],
+    "folder": "spine-demos/052-constraint-bow-string"
+  },
+  {
+    "id": "constraint-053",
+    "number": "053",
+    "title": "眼睛注视目标",
+    "track": "IK 与约束",
+    "difficulty": "进阶",
+    "time": "65m",
+    "deliverable": "look_at",
+    "features": [
+      "transform constraint",
+      "limit"
+    ],
+    "folder": "spine-demos/053-constraint-look-at"
+  },
+  {
+    "id": "constraint-054",
+    "number": "054",
+    "title": "头部跟随鼠标",
+    "track": "IK 与约束",
+    "difficulty": "高级",
+    "time": "100m",
+    "deliverable": "head_aim",
+    "features": [
+      "runtime aim",
+      "constraint"
+    ],
+    "folder": "spine-demos/054-constraint-head-aim"
+  },
+  {
+    "id": "constraint-055",
+    "number": "055",
+    "title": "尾巴链式摆动",
+    "track": "IK 与约束",
+    "difficulty": "高级",
+    "time": "95m",
+    "deliverable": "tail_chain",
+    "features": [
+      "path",
+      "secondary"
+    ],
+    "folder": "spine-demos/055-constraint-tail-chain"
+  },
+  {
+    "id": "constraint-056",
+    "number": "056",
+    "title": "机械臂伸缩",
+    "track": "IK 与约束",
+    "difficulty": "生产",
+    "time": "130m",
+    "deliverable": "mech_arm",
+    "features": [
+      "inherit scale",
+      "IK"
+    ],
+    "folder": "spine-demos/056-constraint-mech-arm"
+  },
+  {
+    "id": "constraint-057",
+    "number": "057",
+    "title": "轨道魔法石",
+    "track": "IK 与约束",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "orbit_magic",
+    "features": [
+      "rotation root",
+      "offset"
+    ],
+    "folder": "spine-demos/057-constraint-orbit-magic"
+  },
+  {
+    "id": "constraint-058",
+    "number": "058",
+    "title": "挂件跟随延迟",
+    "track": "IK 与约束",
+    "difficulty": "高级",
+    "time": "85m",
+    "deliverable": "pendant_follow",
+    "features": [
+      "transform mix",
+      "delay"
+    ],
+    "folder": "spine-demos/058-constraint-pendant-follow"
+  },
+  {
+    "id": "constraint-059",
+    "number": "059",
+    "title": "大 Boss 石块群",
+    "track": "IK 与约束",
+    "difficulty": "生产",
+    "time": "160m",
+    "deliverable": "boss_blocks",
+    "features": [
+      "constraint budget",
+      "naming"
+    ],
+    "folder": "spine-demos/059-constraint-boss-blocks"
+  },
+  {
+    "id": "constraint-060",
+    "number": "060",
+    "title": "约束故障排查",
+    "track": "IK 与约束",
+    "difficulty": "高级",
+    "time": "90m",
+    "deliverable": "constraint_debug",
+    "features": [
+      "mix",
+      "order"
+    ],
+    "folder": "spine-demos/060-constraint-constraint-debug"
+  },
+  {
+    "id": "vfx-061",
+    "number": "061",
+    "title": "斩击序列帧",
+    "track": "特效演出",
+    "difficulty": "入门",
+    "time": "45m",
+    "deliverable": "slash_sequence",
+    "features": [
+      "attachment sequence",
+      "alpha"
+    ],
+    "folder": "spine-demos/061-vfx-slash-sequence"
+  },
+  {
+    "id": "vfx-062",
+    "number": "062",
+    "title": "命中火花",
+    "track": "特效演出",
+    "difficulty": "入门",
+    "time": "35m",
+    "deliverable": "impact_spark",
+    "features": [
+      "scale",
+      "fade"
+    ],
+    "folder": "spine-demos/062-vfx-impact-spark"
+  },
+  {
+    "id": "vfx-063",
+    "number": "063",
+    "title": "落地尘土",
+    "track": "特效演出",
+    "difficulty": "进阶",
+    "time": "60m",
+    "deliverable": "landing_dust",
+    "features": [
+      "event",
+      "slot FX"
+    ],
+    "folder": "spine-demos/063-vfx-landing-dust"
+  },
+  {
+    "id": "vfx-064",
+    "number": "064",
+    "title": "法阵旋转",
+    "track": "特效演出",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "magic_circle",
+    "features": [
+      "rotation",
+      "additive note"
+    ],
+    "folder": "spine-demos/064-vfx-magic-circle"
+  },
+  {
+    "id": "vfx-065",
+    "number": "065",
+    "title": "充能光环",
+    "track": "特效演出",
+    "difficulty": "高级",
+    "time": "90m",
+    "deliverable": "charge_aura",
+    "features": [
+      "scale curve",
+      "color"
+    ],
+    "folder": "spine-demos/065-vfx-charge-aura"
+  },
+  {
+    "id": "vfx-066",
+    "number": "066",
+    "title": "UI 头像眨眼",
+    "track": "特效演出",
+    "difficulty": "入门",
+    "time": "40m",
+    "deliverable": "portrait_blink",
+    "features": [
+      "face slot",
+      "loop"
+    ],
+    "folder": "spine-demos/066-vfx-portrait-blink"
+  },
+  {
+    "id": "vfx-067",
+    "number": "067",
+    "title": "技能图标动效",
+    "track": "特效演出",
+    "difficulty": "进阶",
+    "time": "55m",
+    "deliverable": "skill_icon",
+    "features": [
+      "UI spine",
+      "sequence"
+    ],
+    "folder": "spine-demos/067-vfx-skill-icon"
+  },
+  {
+    "id": "vfx-068",
+    "number": "068",
+    "title": "抽卡揭示",
+    "track": "特效演出",
+    "difficulty": "高级",
+    "time": "110m",
+    "deliverable": "card_reveal",
+    "features": [
+      "mask note",
+      "timing"
+    ],
+    "folder": "spine-demos/068-vfx-card-reveal"
+  },
+  {
+    "id": "vfx-069",
+    "number": "069",
+    "title": "宝箱打开",
+    "track": "特效演出",
+    "difficulty": "进阶",
+    "time": "75m",
+    "deliverable": "chest_open",
+    "features": [
+      "anticipation",
+      "event"
+    ],
+    "folder": "spine-demos/069-vfx-chest-open"
+  },
+  {
+    "id": "vfx-070",
+    "number": "070",
+    "title": "任务完成章印",
+    "track": "特效演出",
+    "difficulty": "进阶",
+    "time": "65m",
+    "deliverable": "stamp_success",
+    "features": [
+      "squash",
+      "settle"
+    ],
+    "folder": "spine-demos/070-vfx-stamp-success"
+  },
+  {
+    "id": "vfx-071",
+    "number": "071",
+    "title": "过场镜头 Pose",
+    "track": "特效演出",
+    "difficulty": "生产",
+    "time": "140m",
+    "deliverable": "cutscene_pose",
+    "features": [
+      "camera note",
+      "timeline"
+    ],
+    "folder": "spine-demos/071-vfx-cutscene-pose"
+  },
+  {
+    "id": "vfx-072",
+    "number": "072",
+    "title": "多层背景小演出",
+    "track": "特效演出",
+    "difficulty": "生产",
+    "time": "150m",
+    "deliverable": "parallax_scene",
+    "features": [
+      "draw order",
+      "runtime"
+    ],
+    "folder": "spine-demos/072-vfx-parallax-scene"
+  },
+  {
+    "id": "runtime-073",
+    "number": "073",
+    "title": "JSON 导出对照",
+    "track": "Runtime 集成",
+    "difficulty": "入门",
+    "time": "40m",
+    "deliverable": "json_export_check",
+    "features": [
+      "json",
+      "atlas"
+    ],
+    "folder": "spine-demos/073-runtime-json-export-check"
+  },
+  {
+    "id": "runtime-074",
+    "number": "074",
+    "title": "Skel 二进制导出",
+    "track": "Runtime 集成",
+    "difficulty": "进阶",
+    "time": "45m",
+    "deliverable": "skel_export_check",
+    "features": [
+      "binary",
+      "size"
+    ],
+    "folder": "spine-demos/074-runtime-skel-export-check"
+  },
+  {
+    "id": "runtime-075",
+    "number": "075",
+    "title": "PMA 图集边缘检查",
+    "track": "Runtime 集成",
+    "difficulty": "高级",
+    "time": "80m",
+    "deliverable": "pma_edge_test",
+    "features": [
+      "premultiply alpha",
+      "bleed"
+    ],
+    "folder": "spine-demos/075-runtime-pma-edge-test"
+  },
+  {
+    "id": "runtime-076",
+    "number": "076",
+    "title": "Unity idle/walk 切换",
+    "track": "Runtime 集成",
+    "difficulty": "进阶",
+    "time": "90m",
+    "deliverable": "unity_state",
+    "features": [
+      "AnimationState",
+      "mix"
+    ],
+    "folder": "spine-demos/076-runtime-unity-state"
+  },
+  {
+    "id": "runtime-077",
+    "number": "077",
+    "title": "Unity 事件监听",
+    "track": "Runtime 集成",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "unity_event",
+    "features": [
+      "event",
+      "callback"
+    ],
+    "folder": "spine-demos/077-runtime-unity-event"
+  },
+  {
+    "id": "runtime-078",
+    "number": "078",
+    "title": "Cocos 动画队列",
+    "track": "Runtime 集成",
+    "difficulty": "进阶",
+    "time": "80m",
+    "deliverable": "cocos_queue",
+    "features": [
+      "setAnimation",
+      "addAnimation"
+    ],
+    "folder": "spine-demos/078-runtime-cocos-queue"
+  },
+  {
+    "id": "runtime-079",
+    "number": "079",
+    "title": "Web Canvas 预览",
+    "track": "Runtime 集成",
+    "difficulty": "高级",
+    "time": "120m",
+    "deliverable": "web_preview",
+    "features": [
+      "spine-ts",
+      "atlas load"
+    ],
+    "folder": "spine-demos/079-runtime-web-preview"
+  },
+  {
+    "id": "runtime-080",
+    "number": "080",
+    "title": "PixiJS 角色控制",
+    "track": "Runtime 集成",
+    "difficulty": "生产",
+    "time": "150m",
+    "deliverable": "pixi_controller",
+    "features": [
+      "keyboard",
+      "state machine"
+    ],
+    "folder": "spine-demos/080-runtime-pixi-controller"
+  },
+  {
+    "id": "runtime-081",
+    "number": "081",
+    "title": "Godot 导入检查",
+    "track": "Runtime 集成",
+    "difficulty": "高级",
+    "time": "110m",
+    "deliverable": "godot_import",
+    "features": [
+      "version match",
+      "signals"
+    ],
+    "folder": "spine-demos/081-runtime-godot-import"
+  },
+  {
+    "id": "runtime-082",
+    "number": "082",
+    "title": "Unreal 插件测试",
+    "track": "Runtime 集成",
+    "difficulty": "高级",
+    "time": "120m",
+    "deliverable": "unreal_component",
+    "features": [
+      "component",
+      "event"
+    ],
+    "folder": "spine-demos/082-runtime-unreal-component"
+  },
+  {
+    "id": "runtime-083",
+    "number": "083",
+    "title": "多动画混合预算",
+    "track": "Runtime 集成",
+    "difficulty": "生产",
+    "time": "150m",
+    "deliverable": "mix_budget",
+    "features": [
+      "mix duration",
+      "timeline cleanup"
+    ],
+    "folder": "spine-demos/083-runtime-mix-budget"
+  },
+  {
+    "id": "runtime-084",
+    "number": "084",
+    "title": "同屏 50 个小怪测试",
+    "track": "Runtime 集成",
+    "difficulty": "生产",
+    "time": "180m",
+    "deliverable": "crowd_perf",
+    "features": [
+      "performance",
+      "atlas"
+    ],
+    "folder": "spine-demos/084-runtime-crowd-perf"
+  },
+  {
+    "id": "pipeline-085",
+    "number": "085",
+    "title": "绿幕 parts sheet",
+    "track": "AI 素材管线",
+    "difficulty": "入门",
+    "time": "35m",
+    "deliverable": "sheet_prompt",
+    "features": [
+      "gpt-image2",
+      "chroma key"
+    ],
+    "folder": "spine-demos/085-pipeline-sheet-prompt"
+  },
+  {
+    "id": "pipeline-086",
+    "number": "086",
+    "title": "自动连通切片",
+    "track": "AI 素材管线",
+    "difficulty": "进阶",
+    "time": "45m",
+    "deliverable": "slice_manifest",
+    "features": [
+      "tooling",
+      "manifest"
+    ],
+    "folder": "spine-demos/086-pipeline-slice-manifest"
+  },
+  {
+    "id": "pipeline-087",
+    "number": "087",
+    "title": "零件命名复核",
+    "track": "AI 素材管线",
+    "difficulty": "入门",
+    "time": "30m",
+    "deliverable": "name_order",
+    "features": [
+      "naming",
+      "attachment"
+    ],
+    "folder": "spine-demos/087-pipeline-name-order"
+  },
+  {
+    "id": "pipeline-088",
+    "number": "088",
+    "title": "换装同名替换",
+    "track": "AI 素材管线",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "skin_replace",
+    "features": [
+      "skin",
+      "diff"
+    ],
+    "folder": "spine-demos/088-pipeline-skin-replace"
+  },
+  {
+    "id": "pipeline-089",
+    "number": "089",
+    "title": "AI 表情包扩展",
+    "track": "AI 素材管线",
+    "difficulty": "进阶",
+    "time": "70m",
+    "deliverable": "expression_ai_pack",
+    "features": [
+      "prompt",
+      "slot"
+    ],
+    "folder": "spine-demos/089-pipeline-expression-ai-pack"
+  },
+  {
+    "id": "pipeline-090",
+    "number": "090",
+    "title": "武器包批量生成",
+    "track": "AI 素材管线",
+    "difficulty": "进阶",
+    "time": "65m",
+    "deliverable": "weapon_ai_pack",
+    "features": [
+      "batch",
+      "attachment"
+    ],
+    "folder": "spine-demos/090-pipeline-weapon-ai-pack"
+  },
+  {
+    "id": "pipeline-091",
+    "number": "091",
+    "title": "Boss 部件重切",
+    "track": "AI 素材管线",
+    "difficulty": "高级",
+    "time": "100m",
+    "deliverable": "boss_reslice",
+    "features": [
+      "min area",
+      "manual cleanup"
+    ],
+    "folder": "spine-demos/091-pipeline-boss-reslice"
+  },
+  {
+    "id": "pipeline-092",
+    "number": "092",
+    "title": "透明边缘修复",
+    "track": "AI 素材管线",
+    "difficulty": "高级",
+    "time": "90m",
+    "deliverable": "alpha_cleanup",
+    "features": [
+      "threshold",
+      "despill"
+    ],
+    "folder": "spine-demos/092-pipeline-alpha-cleanup"
+  },
+  {
+    "id": "pipeline-093",
+    "number": "093",
+    "title": "风格一致性审查",
+    "track": "AI 素材管线",
+    "difficulty": "生产",
+    "time": "120m",
+    "deliverable": "style_review",
+    "features": [
+      "art direction",
+      "palette"
+    ],
+    "folder": "spine-demos/093-pipeline-style-review"
+  },
+  {
+    "id": "pipeline-094",
+    "number": "094",
+    "title": "素材版本管理",
+    "track": "AI 素材管线",
+    "difficulty": "生产",
+    "time": "100m",
+    "deliverable": "asset_versioning",
+    "features": [
+      "source sheet",
+      "diff"
+    ],
+    "folder": "spine-demos/094-pipeline-asset-versioning"
+  },
+  {
+    "id": "pipeline-095",
+    "number": "095",
+    "title": "图集打包策略",
+    "track": "AI 素材管线",
+    "difficulty": "高级",
+    "time": "95m",
+    "deliverable": "atlas_strategy",
+    "features": [
+      "padding",
+      "max size"
+    ],
+    "folder": "spine-demos/095-pipeline-atlas-strategy"
+  },
+  {
+    "id": "pipeline-096",
+    "number": "096",
+    "title": "从 AI 图到引擎",
+    "track": "AI 素材管线",
+    "difficulty": "生产",
+    "time": "180m",
+    "deliverable": "ai_to_runtime",
+    "features": [
+      "export",
+      "runtime QA"
+    ],
+    "folder": "spine-demos/096-pipeline-ai-to-runtime"
+  }
+]

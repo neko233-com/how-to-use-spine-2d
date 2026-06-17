@@ -1,0 +1,21 @@
+{
+  "id": "constraint-051",
+  "title": "双手握剑",
+  "track": "IK 与约束",
+  "difficulty": "高级",
+  "estimatedTime": "120m",
+  "deliverable": "two_hand_weapon",
+  "spineVersion": "4.3",
+  "features": [
+    "IK",
+    "transform constraint"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

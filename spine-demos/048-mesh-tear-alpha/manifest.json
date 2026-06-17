@@ -1,0 +1,21 @@
+{
+  "id": "mesh-048",
+  "title": "半透明泪滴处理",
+  "track": "Mesh 表情",
+  "difficulty": "高级",
+  "estimatedTime": "80m",
+  "deliverable": "tear_alpha",
+  "spineVersion": "4.3",
+  "features": [
+    "premultiply alpha",
+    "atlas"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

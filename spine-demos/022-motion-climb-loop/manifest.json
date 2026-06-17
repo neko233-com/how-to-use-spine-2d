@@ -1,0 +1,21 @@
+{
+  "id": "motion-022",
+  "title": "爬梯循环",
+  "track": "角色运动",
+  "difficulty": "进阶",
+  "estimatedTime": "70m",
+  "deliverable": "climb_loop",
+  "spineVersion": "4.3",
+  "features": [
+    "cycle",
+    "hand contact"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

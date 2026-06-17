@@ -1,0 +1,21 @@
+{
+  "id": "rig-005",
+  "title": "左右手独立层级",
+  "track": "入门绑定",
+  "difficulty": "入门",
+  "estimatedTime": "45m",
+  "deliverable": "上半身 rig",
+  "spineVersion": "4.3",
+  "features": [
+    "hierarchy",
+    "transform"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

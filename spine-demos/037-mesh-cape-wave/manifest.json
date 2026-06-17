@@ -1,0 +1,21 @@
+{
+  "id": "mesh-037",
+  "title": "披风三骨骼摆动",
+  "track": "Mesh 表情",
+  "difficulty": "进阶",
+  "estimatedTime": "75m",
+  "deliverable": "cape_wave",
+  "spineVersion": "4.3",
+  "features": [
+    "mesh",
+    "weights"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}

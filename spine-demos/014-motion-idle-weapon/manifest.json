@@ -1,0 +1,21 @@
+{
+  "id": "motion-014",
+  "title": "轻武器待机",
+  "track": "角色运动",
+  "difficulty": "入门",
+  "estimatedTime": "45m",
+  "deliverable": "idle_weapon",
+  "spineVersion": "4.3",
+  "features": [
+    "secondary motion",
+    "offset"
+  ],
+  "status": "scaffold",
+  "expectedFiles": [
+    "source .spine file",
+    "images/",
+    "export json/skel",
+    "atlas + packed png",
+    "notes.md"
+  ]
+}
